@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Authurton
 - 👀 I’m interested in front and backend web development
-- 🌱 I’m currently learning svelte and julia
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning react.js
+- 💞️ I’m looking to collaborate on julia
 - 📫 Email: authurlunga@gmail.com
 
 <!---
