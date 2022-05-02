@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Authurton
 - 👀 I’m interested in front and backend web development
-- 🌱 I’m currently learning react.js
+- 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on julia
 - 📫 Email: authurlunga@gmail.com
 
