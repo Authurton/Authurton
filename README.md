@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Authurton
 - 👀 I’m interested in front and backend web development
 - 🌱 I’m currently learning node.js,mobile application development
-- 💞️ I’m looking to collaborate on julia
+- 💞️ I’m looking to collaborate on golang, .Net core 
 - 📫 Email: authurlunga@gmail.com
 
 <!---
